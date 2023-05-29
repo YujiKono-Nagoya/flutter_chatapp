@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804727730243",
+    "firebase_url": "https://flutter-signin-6530c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-signin-6530c",
+    "storage_bucket": "flutter-signin-6530c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804727730243:android:44435e504930f367fba4f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804727730243-kcupfev47rb0rurrghs4q75hddjot0pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtn3ZjMv7ue2E_dwJJDCX9-GdMbh_wpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804727730243-kcupfev47rb0rurrghs4q75hddjot0pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804727730243-4r101nr21fra00eltto7g1k9mjl3o1i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLoginLoginup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
